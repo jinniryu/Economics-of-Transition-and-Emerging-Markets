@@ -74,4 +74,20 @@
   - Hungary(1964, continuation in 1980s)
   - Czechoslovakia(1964-1969)?
   - Poland(1982)?
-  - 
+> Examples of partial reforms
+  - Poland(1957-1959, 1972-1974)
+  - Bulgaria(mid 1960s)
+  - USSR(1964, period of perestroika)
+> Problems of market socialism
+  - How to protect economic autonomy of 'socialist' enterprise? The role of employee self-management
+  - Goal function of a 'socialist' enterprise: profit or income/value added per 1 employee? Consequences for allocation of labor and capital
+  - Macroeconomic disequilibrium originating from administrative price formation and weak macroeconomic policies
+  - Imperfect property rights => negative impact on investment decisions, economic responsibility, soft budget constraints(Kornai) and market exit
+  - Limits to private sector and foreign capital => weak market competition and innovations, only limited opening of an ecomony to external world(trade and labor flows but not capital)
+> Lessons of 'socialist' reforms
+  - Partial and slow reforms do not work: problem of 'critical mass' of reforms
+  - Some political reforms needed for success of economic reforms(conflict between political monopoly of communist party and enterprise autonomy)
+  - Key role of price liberalization, external openness and macroeconomic equilibrium at the early stage of reform.
+  - The key role of rapid and mass privatization. Nevertherless, remnants of 'market socialism'(autonomous state enterprise) will continue exist in the transition period
+  - Employees ownership can work only temporarily as the transition stage to unrestricted private ownership
+  - Most of theoretical models of 'socialist reforms' proved impractical during market(post-communist) transition
