@@ -55,3 +55,23 @@
   - Price distortions and market shortages, rationing of consumer goods and productions inputs(shortage economy as of Janos Kornai)
   - Autarky, import-substitution industrialization, lack of international competitiveness, structural distortions
   - Political nominations for managerial positions
+
+***2. Attempts to reform CPE***
+> Early controversy over the efficiency of 'Socialist' model
+  - Boris Brutskus and Ludwig Von Mises questioned efficiency of CPE in early 1920s, followed by Friedrich A. Hayek in 1930s and 1940s
+  - Oskar Lange(1937) definded rationale of 'socialist' economy but not its actual form(Stalinist model) but the proposed sort of decentralized model - polemics with Von Mises('Socialist calculation debate')
+> How to reform socialist economy? (1)
+  - Idea: **relationalization of central planning** and its instruments using mathematical models of optimal planning and shadow prices(Oskar Lange, Leonid Kantorovich, Victor Novozhilov)
+  - Problems: it disregarded information barriers(plan bargaining) and politicization of government price decisions
+> How to reform socialist economy? (2)
+  - Idea: **democoratization of central planning**(Woldzimierz Brus)
+  - Problems: it contradicted political nature of both communist totalitarianism and democracy(democracy cannot exist without market and private property)
+> How to reform socialist economy? (3)
+  - Idea: **market socialism**, i.e., market mechanism without private ownership(Pierre-Joseph Proudhon, Oskar Lange, Fred M. Taylor, Jaroslav Vanek, Branko Horvath, Wlodzimierz Brus)
+  - Problems: Who is the economic subject/entrepreneur?
+> Examples of complex reforms
+  - Yugoslavia(early 1950s, 1965, 1972)
+  - Hungary(1964, continuation in 1980s)
+  - Czechoslovakia(1964-1969)?
+  - Poland(1982)?
+  - 
