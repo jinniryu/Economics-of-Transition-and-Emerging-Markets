@@ -116,4 +116,26 @@
 
 > ![Soviet economy - declining productivity rate](https://user-images.githubusercontent.com/88122687/147810803-d8dbac63-40a8-441d-ae9c-71c69bf79c35.PNG)
 
+> Economic deterioration in the USSR and other CPEs in 1980s
+  - Limits of 'extensive' growth
+  - Decline in oil prices since 1985(USSR)
+  - High costs of arm race
+  - Political weakening of communist regimes
+    - Social concessions(to retain legitimacy)
+    - Loosing control over managers
+    - Partial and chaotic economic reforms
+    
+> ![Crude oil prices_Arabian light-Dubai_USD-bbl](https://user-images.githubusercontent.com/88122687/147811179-890c586e-b78a-412f-b687-3e341cf33bd9.PNG)
 
+> Effects of Chaotic reforms
+  - Price arbitrage(income stripping) => building oligarchic fortunes
+  - 'Nomenclature' privatization(assets stripping)
+  - Collapse of planning discipline and coordination => systemic vacuum and unmanageability
+  - Collapse of fiscal and monetary discipline => balance-of-payment crisis\
+
+> Sources of Macroeconomic Disequilibrium
+  - Price control => market shortages => forced savings => monetary overhang(hidden[hyper] inflation)
+  - Price control => subsidies to basic goods => budget deficit => money printing
+  - Decrease of oil prices(former USSR)
+  - Social populism of later communism
+  - Long public debate about price liberalization
