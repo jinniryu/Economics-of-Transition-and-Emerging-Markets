@@ -230,3 +230,50 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
 
 ![Examples of disinflation trend reversal](https://user-images.githubusercontent.com/88122687/147813198-975a381e-623a-4220-8967-1e791c2b6da7.PNG)
 
+***6. Privatization***
+> Starting point of transition
+  - Close to monopoly of state and cooperative/collective ownership in Czechoslovakia, USSR, Romania, Bulgaria
+  - Some limited enclaves of private ownership in Poland(>20%), Yugoslavia, Hungary, GDR
+  - Perestroika in the USSR: cooperatives, private leasing
+  - Limited participation of foreign firms allowed only in Hungary, Yugoslavia and Poland
+
+> Rebuilding private ownership
+  - Creation of new domestic private firms
+  - Green-filed FDI
+  - Restitution of old private property rights
+  - Privatization of housing
+  - Privatization of land(political barriers in may CIS countries)
+  - Privatization of state owned firms
+
+> New private firms
+  - Elimination of regulatory barriers
+  - Tax incentives
+  - Access to credit
+  - Small-scale privatization
+
+> Re-privatization / restitution
+  - All CEE and Baltic except Polland(where only limited and delayed)
+  - Physical restitution - mainly housing, land and small-scale production assets
+  - Compensation in other cases
+  - Several legal, political, technical and financial obstacles
+
+> Large-scale privatization
+  - Initial private offering
+  - Selling to strategic investor (domestic or foreign)
+  - Joint ventures with foreign firms
+  - Employee and management buy-out(leveraged)
+  - Voucher/coupon privatization, including voucher/coupon funds
+  - Debt-to-equity swap
+  - 'Liquidation' privatization
+
+> Privatization dilemmas
+  - Lack of stock exchange and few strategic investors in early stages of transition
+  - Employee and voucher privatization slowed enterprise restructuring
+  - Importance of hard budget constraints and macroeconomic stability
+  - Political compromises and goals(building support for reform, 'peoples' capitalism, etc.)
+  - Any privatization was better than no privatization
+
+> Privatization outcomes
+  - More than 50% of GDP contributed by a private sector in all countries but Turkmenistan, Uzbekistan and Belarus
+  - Several pockets of state ownership remains(maily infrastructure and industries considered as 'strategic')
+  - Renationalization drift in Russia
