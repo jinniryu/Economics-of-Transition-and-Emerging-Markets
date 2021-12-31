@@ -18,7 +18,7 @@
 
 
 ### Week 1. Centrally planned economy its origins, evolution and collapse
-1. Origins of Centrally Planned Economy and its major characteristic
+***1. Origins of Centrally Planned Economy and its major characteristic***
 > Theoretical/idelogical foundations of a centrally planned economy(CPE)
   - Karl Marx and Vladimir Lenini's visions of a society without exploitation(associated with market forces and private ownership of means of production)
   - Because of the idelogical/political context, frequently called as communist/socialist/command economy
@@ -44,7 +44,14 @@
   - Administrative determination of prices and wages
   - State monopoly of foreign trade, lack of currency convertibility, multiple exchange rates, isolation from world markets, autarky
   - Forced industrialization(heavy and military industry) at the cost of other sectors
-> Stalinist model:political and human dimension
+> Stalinist model: political and human dimension
   - Political totalitarianism(hegemony of communist party, restriction on political and civic freedoms, political terror)
   - The excessive power of the army, security agencies and police
-  - Massive use of forced labor(
+  - Massive use of forced labor('Gulag' system)
+  - Famine caused by collapse of private agriculture
+  - Debatable economic results of the Soviet economy
+> Effects of CPE model
+  - Perverse microeconomic incentives connected with planning bargain: demand for lower production targets and higher input allocation; 'soft' budget constraints(Janos Kornai)
+  - Price distortions and market shortages, rationing of consumer goods and productions inputs(shortage economy as of Janos Kornai)
+  - Autarky, import-substitution industrialization, lack of international competitiveness, structural distortions
+  - Political nominations for managerial positions
