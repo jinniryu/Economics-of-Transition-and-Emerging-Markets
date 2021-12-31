@@ -91,6 +91,7 @@
   - The key role of rapid and mass privatization. Nevertherless, remnants of 'market socialism'(autonomous state enterprise) will continue exist in the transition period
   - Employees ownership can work only temporarily as the transition stage to unrestricted private ownership
   - Most of theoretical models of 'socialist reforms' proved impractical during market(post-communist) transition
+
 ***3. Collapse of the CPE***
 > Changes in CPE after Stalin death
   - Less repressions
