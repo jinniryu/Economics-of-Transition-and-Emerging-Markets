@@ -1,7 +1,7 @@
 # Economics-of-Transition-and-Emerging-Markets
-Economics of Transition and Emerging Markets
+## Economics of Transition and Emerging Markets
 
-목차
+### List
 * [Week 1. Centrally planned economy its origins, evolution and collapse](#100)
 * [Week 2. Post-communist transition and its outcomes](#200)
 * [Week 3. The role of external actors in post-communist transition and economic reforms in Asia](#300)
