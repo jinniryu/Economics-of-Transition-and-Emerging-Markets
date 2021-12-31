@@ -1,6 +1,6 @@
 # Economics-of-Transition-and-Emerging-Markets
 ## Economics of Transition and Emerging Markets
-
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ### List
 * [Week 1. Centrally planned economy its origins, evolution and collapse](#20)
 * [Week 2. Post-communist transition and its outcomes](#200)
