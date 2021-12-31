@@ -2,7 +2,7 @@
 ## Economics of Transition and Emerging Markets
 ![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
 ### List
-* [Week 1. Centrally planned economy its origins, evolution and collapse](#20)
+* [Week 1. Centrally planned economy its origins, evolution and collapse](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#week-1-centrally-planned-economy-its-origins-evolution-and-collapse)
 * [Week 2. Post-communist transition and its outcomes](#200)
 * [Week 3. The role of external actors in post-communist transition and economic reforms in Asia](#300)
 * [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](#400)
