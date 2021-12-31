@@ -91,3 +91,14 @@
   - The key role of rapid and mass privatization. Nevertherless, remnants of 'market socialism'(autonomous state enterprise) will continue exist in the transition period
   - Employees ownership can work only temporarily as the transition stage to unrestricted private ownership
   - Most of theoretical models of 'socialist reforms' proved impractical during market(post-communist) transition
+***3. Collapse of the CPE***
+> Changes in CPE after Stalin death
+  - Less repressions
+  - Greater focus on consumtion and social protection
+  - Agriculture: from resource drain to subsidization
+  - Pragmatic compromises(small land plots in Soviet Union, de-collectivization in Poland)
+> Soviet economy: declining growht rate
+![Soviet economy - declining growth rate](https://user-images.githubusercontent.com/88122687/147810721-dbe7e3d5-4691-4135-9419-a80850008b9e.PNG)
+> Soviet economy - declining productivity rate
+![Soviet economy - declining productivity rate](https://user-images.githubusercontent.com/88122687/147810803-d8dbac63-40a8-441d-ae9c-71c69bf79c35.PNG)
+
