@@ -131,11 +131,98 @@
   - Price arbitrage(income stripping) => building oligarchic fortunes
   - 'Nomenclature' privatization(assets stripping)
   - Collapse of planning discipline and coordination => systemic vacuum and unmanageability
-  - Collapse of fiscal and monetary discipline => balance-of-payment crisis\
+  - Collapse of fiscal and monetary discipline => balance-of-payment crisis
 
 > Sources of Macroeconomic Disequilibrium
-  - Price control => market shortages => forced savings => monetary overhang(hidden[hyper] inflation)
+  - Price control => market shortages => forced savings => monetary overhang(hidden [hyper] inflation)
   - Price control => subsidies to basic goods => budget deficit => money printing
   - Decrease of oil prices(former USSR)
   - Social populism of later communism
   - Long public debate about price liberalization
+
+***4. Transition agenda***
+> Transition in CEE/FSU
+  - Macroeconomic stabilization
+  - Domestic and external liberalization
+  - Privatization and enterprise restructuring
+  - Institutional and legal reform
+  - Building a market-based social safety net
+  - Political reform
+
+> Macroeconomic stabilization
+  - Fiscal adjustment (reducing subsidies [price liberalization] and government investment spending, market-based tax reform, creating room for SSN)
+  - Stopping quasi-fiscal activities of central bank
+  - Limiting credit expansion, active role of central bank, central bank independence, market-based monetary policy instruments
+  - Temporary wage control in some countries
+
+> Liberalization
+  - Price deregulation, removing subsidies
+  - Unification of exchange rate, current account convertibility, then capital account convertibility
+  - Free private entrepreneurship, business deregulation
+  - Trade liberalization(unilateral then followed by AA with the EU and EU/WTO accession)
+  - Dismantling monobank, opening door for private and foreign banks, abolishing interest rate control
+
+> Privatization and enterprise restructuring
+  - Limited results of enterprise restructuring without privatization
+  - Corporatization works only as the intermediate stage to privatization
+  - The role of hard budget constraints and competition
+  - Experience with various privatization schemes (IPOI, sales to strategic investor, voucher privatization, employee/management buy-out, debt-equity swap, joint-ventures)
+
+> Institutional and legal reform
+  - Building of various kind of market-support institutions and adopting market-oriented legislation
+  - Crucial role of independent, professionally competent and uncorrupted judiciary as well as civil service
+  - Helpful role of EU AA and EU accession(second-generation reforms)
+
+> Social safety net
+  - Moving from subsidies, benefits in-kind, labor safety and enterprise-based SSN to targeted SSN
+  - Better targeting (political and institutional constraints)
+  - Unemployment benefits and ALMP
+  - Building a multi-pillar pension system
+  - Demographic challenges (pension system & health care)
+  - Mixed results of SSN ("premature post-communist welfare state")
+
+***5. Challenges of stabilization and disinflation***
+> Slow pace of disinflation
+  - Legacy of the late communist/ early transition period(inertia)
+  - Lax monetary policy (often dependent on political decisions)
+  - Fiscal imbalances
+
+> ![End-of-year inflation in transition economies 1991-2001](https://user-images.githubusercontent.com/88122687/147812275-d70c8303-7abf-427b-b5e4-8ea1b21499a2.PNG)
+
+> Hytperinflation episodes
+  - Yugoslavia(310,000,000% monthly in January 1994)
+  - Georgia(50,654% 12-months inflation in September 1994)
+  - Armenia(29,600.9% 12-months inflation in May 1994)
+  - Ukraine(10,155% 12-months inflation in December 1993)
+
+![Cumulative inflation 1996-2001](https://user-images.githubusercontent.com/88122687/147812421-28e74d64-d70c-4448-8f2f-55f0ade1fd0f.PNG)
+
+> Stabilization strategies
+  - Orthodox
+    - Money based
+    - Exchange-rate based
+The crucial role of exchange rate stability(de facto) in bringing inflation down => the case of Balkan, Baltic and Caucasus countries
+
+> Countries with Crawling peg / crawling band regimes / targeting real exchange rate
+  - Poland (1991-2000)
+  - Hungary(199502991)
+  - Russia(1995-1998 and 2001-2002)
+  - Slovenia
+
+> What are the problems with the crawling peg/band regimes?
+  - Building up strong inflationary inertia
+  - Political resistance to slow down rate of crawl (export promotion target gets de facto priority)
+  - Inability to target real exchange rate in the world of free capital mobility
+
+> Monetary financing of a fiscal deficit
+Fiscal deficit => Growth in monetary base => Growth in money supply => Inflation
+
+> Domestic non-monetary financing
+Fiscal deficit => Growing public debt under conditions of limited monetization and underdevelopment of financial market => Increasing yields of Treasury bills => Increasing interest payments => Further increase of fiscal deficit; expectation of default => Difficulties with rolling over Treasury bills => Return to monetary financing of fiscal deficit => Growth in monetary base => Growth in money supply => Inflation
+  
+> External private financing
+Fiscal deficit => Increase in short term external debt in relation to GDP, export, foreign exchange reserves, budget revenue => Decreasing country credibility => Capital outflow => Difficulties with rolling over public debt + Decreasing foreign exchange reserves => Return to monetary financing of a fiscal deficit + change in composition of a moentary base => Speculative attack => Devaluation => Inflation
+
+> Examples of disinflation trend reversal
+![Examples of disinflation trend reversal](https://user-images.githubusercontent.com/88122687/147813198-975a381e-623a-4220-8967-1e791c2b6da7.PNG)
+
