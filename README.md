@@ -17,7 +17,7 @@
 
 
 
-### Week 1. Centrally planned economy its origins, evolution and collapse
+### Week 1. Centrally planned economy its origins, evolution and collapse(https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#list)
 ***1. Origins of Centrally Planned Economy and its major characteristic***
 > Theoretical/idelogical foundations of a centrally planned economy(CPE)
   - Karl Marx and Vladimir Lenini's visions of a society without exploitation(associated with market forces and private ownership of means of production)
