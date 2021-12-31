@@ -215,14 +215,18 @@ The crucial role of exchange rate stability(de facto) in bringing inflation down
   - Inability to target real exchange rate in the world of free capital mobility
 
 > Monetary financing of a fiscal deficit
+
 Fiscal deficit => Growth in monetary base => Growth in money supply => Inflation
 
 > Domestic non-monetary financing
+
 Fiscal deficit => Growing public debt under conditions of limited monetization and underdevelopment of financial market => Increasing yields of Treasury bills => Increasing interest payments => Further increase of fiscal deficit; expectation of default => Difficulties with rolling over Treasury bills => Return to monetary financing of fiscal deficit => Growth in monetary base => Growth in money supply => Inflation
   
 > External private financing
+
 Fiscal deficit => Increase in short term external debt in relation to GDP, export, foreign exchange reserves, budget revenue => Decreasing country credibility => Capital outflow => Difficulties with rolling over public debt + Decreasing foreign exchange reserves => Return to monetary financing of a fiscal deficit + change in composition of a moentary base => Speculative attack => Devaluation => Inflation
 
 > Examples of disinflation trend reversal
+
 ![Examples of disinflation trend reversal](https://user-images.githubusercontent.com/88122687/147813198-975a381e-623a-4220-8967-1e791c2b6da7.PNG)
 
