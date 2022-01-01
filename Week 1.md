@@ -1,5 +1,5 @@
 # [Week 1. Centrally planned economy its origins, evolution and collapse](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#list)
-##***1. Origins of Centrally Planned Economy and its major characteristic***
+## ***1. Origins of Centrally Planned Economy and its major characteristic***
 > Theoretical/idelogical foundations of a centrally planned economy(CPE)
   - Karl Marx and Vladimir Lenini's visions of a society without exploitation(associated with market forces and private ownership of means of production)
   - Because of the idelogical/political context, frequently called as communist/socialist/command economy
@@ -43,7 +43,7 @@
   - Autarky, import-substitution industrialization, lack of international competitiveness, structural distortions
   - Political nominations for managerial positions
 
-##***2. Attempts to reform CPE***
+## ***2. Attempts to reform CPE***
 > Early controversy over the efficiency of 'Socialist' model
   - Boris Brutskus and Ludwig Von Mises questioned efficiency of CPE in early 1920s, followed by Friedrich A. Hayek in 1930s and 1940s
   - Oskar Lange(1937) definded rationale of 'socialist' economy but not its actual form(Stalinist model) but the proposed sort of decentralized model - polemics with Von Mises('Socialist calculation debate')
@@ -86,7 +86,7 @@
   - Employees ownership can work only temporarily as the transition stage to unrestricted private ownership
   - Most of theoretical models of 'socialist reforms' proved impractical during market(post-communist) transition
 
-##***3. Collapse of the CPE***
+## ***3. Collapse of the CPE***
 > Changes in CPE after Stalin death
   - Less repressions
   - Greater focus on consumtion and social protection
@@ -121,7 +121,7 @@
   - Social populism of later communism
   - Long public debate about price liberalization
 
-##***4. Transition agenda***
+## ***4. Transition agenda***
 > Transition in CEE/FSU
   - Macroeconomic stabilization
   - Domestic and external liberalization
@@ -162,7 +162,7 @@
   - Demographic challenges (pension system & health care)
   - Mixed results of SSN ("premature post-communist welfare state")
 
-##***5. Challenges of stabilization and disinflation***
+## ***5. Challenges of stabilization and disinflation***
 > Slow pace of disinflation
   - Legacy of the late communist/ early transition period(inertia)
   - Lax monetary policy (often dependent on political decisions)
@@ -211,7 +211,7 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
 
 ![Examples of disinflation trend reversal](https://user-images.githubusercontent.com/88122687/147813198-975a381e-623a-4220-8967-1e791c2b6da7.PNG)
 
-##***6. Privatization***
+## ***6. Privatization***
 > Starting point of transition
   - Close to monopoly of state and cooperative/collective ownership in Czechoslovakia, USSR, Romania, Bulgaria
   - Some limited enclaves of private ownership in Poland(>20%), Yugoslavia, Hungary, GDR
