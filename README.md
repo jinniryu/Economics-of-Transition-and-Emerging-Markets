@@ -279,3 +279,71 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
   - Renationalization drift in Russia
 
 ### [Week 2. Post-communist transition and its outcomes](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#list)
+***1. Political economy of transition and controversies over transition strategy***
+> From the beginning of transition controversy over its speed and strategy
+  - Fast vs. gradual transition
+  - Called offten as 'shock' therapy or 'big bang' vs. gradualism
+  - Emotional content and arguments
+
+> Arguments in favor of fast transition
+  - Expectation/ credibility when policymakers want to radically change the behavio of economic agents(both macro and micro)
+  - Old institutions can damage new policies and danger of a systemic vacuum
+  - Political economy of the reform process
+
+> Political economy
+  - Avoiding creation of intermediate winners (becoming stuck in the intermediate stage/ solutions)
+  - Effective using of window of political opportunity (limited in time) => 'period of extraordinary politics' after the fall of communism (Balcerowicz)
+
+> ![political and economic dynamics of the transition process](https://user-images.githubusercontent.com/88122687/147852026-c1256eef-a489-4981-83af-d00aaca416ec.PNG)
+
+> Arguments in favor of gradual transition
+  - Minimizing social pain(but making it longer)
+  - Giving time people and enterprises to adapt
+  - Institution changes take time
+ 
+> ![What can be done gradually](https://user-images.githubusercontent.com/88122687/147852067-26bf44bc-9185-4d6a-9145-d5ebc5bbc78c.PNG)
+
+***2. Results of transition(the first decade)***
+> Problems with statistical comparison
+  - Lopw utility and low quality of final output/ limited consumption choice(structural distortions)
+  - Prices(and exchange rates) not reflecting relative scarcity of goods and market equilibrium
+  - High inflation/hyperinflation
+  - Over-reporting(pripiska) versus underreporting during transition
+  - Transition from NMP to GDP
+   
+> ![index of real GDP](https://user-images.githubusercontent.com/88122687/147852139-73229a83-8886-4841-acc9-09c402a5b595.png)
+
+> ![Real GDP 1989=100](https://user-images.githubusercontent.com/88122687/147852150-05c5ec01-c6af-4cf6-bf0c-ffeb338c4fa2.PNG) 
+
+> ![Average annual GDP growth by main regions in %](https://user-images.githubusercontent.com/88122687/147852171-aedb6eee-e199-47f0-902f-91441a3df5b1.PNG)
+
+> Initial output decline
+  - Consequence of inherited structural distortions
+  - Result of policy mistakes (slow and inconsequent transition)
+
+> Output recovery
+  - Result of the first reform package
+  - First stage(3-5 years) relativly easy - mainly reallocation of existing resources and capacities
+  - Role of external factors
+    - Global boom
+    - Commodity boom(CIS)
+    - Integration with the EU(CEE)
+
+> ![Structural Reform Index for CEE and CIS countries 2000](https://user-images.githubusercontent.com/88122687/147852238-82cba225-7c1c-4259-8e39-5ad13f548db5.PNG)
+
+> ![Gini coefficient of income per capita](https://user-images.githubusercontent.com/88122687/147852264-42be97f6-6a96-4525-9a69-5a6457b61f73.PNG)
+
+> ![HDI 1985-2001](https://user-images.githubusercontent.com/88122687/147852283-16bff0f5-77ba-4fa1-b6b1-64d733644042.PNG)
+
+> Three basic factors of success
+  - Pace of reforms (the role of time constraints, political economy of transition, comptetition between countries)
+  - Comprehensiveness, consistency and consequence
+  - Proper sequencing
+
+> Other determinants of success
+  - Starting conditions(economic and political)
+  - Date of starting reforms
+  - Geographic location
+  - Domestic and external political and military conflicts
+
+
