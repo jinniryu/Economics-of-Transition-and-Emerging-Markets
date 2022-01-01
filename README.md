@@ -489,3 +489,59 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
   - But all reformist governments tend to declare EU membership as strategic goal (examples of Georgia, Moldova and Ukraine)
 
 ### [Week 3. The role of external actors in post-communist transition and economic reforms in Aisa](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#list)
+***1. Transition countries and the EU***
+> EU accession of less developed countries
+  - Mediterranean Enlargement of 1980s(Greece, Portugal and Spain)
+  - Eastern Enlargement 2004, 2007, 2013(Bulgaria, Croatia, Czech Rep., Cyprus, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania, Slovakia and Slovenia)
+
+> Eu Candidates
+  - Negotiating(Turkey, Montenegro, Serbia)
+  - Waiting for Negotiation (Macedonia)
+  - Potential(Albania, Bosnia & Herzegovina, Kosovo)
+
+> ![Timetable of EU intergration process of post-communist countries](https://user-images.githubusercontent.com/88122687/147862300-2c6dc62d-5eaa-440e-9119-e18d652f9ebe.PNG)
+
+> Stages of accession process (1)
+  - Stabilization and association Agreement
+  - Membership application
+  - Obtaining the EU Candidate status
+  - Opening membership negotiations(35 chapters)
+  - Concluding memebership negotiation
+
+> Copenhagen Criteria for EU Accession
+  - Stability of institutions guaranteeing democracy, the rule of law, human rights and repect for and protection of minorities
+  - The existence of a functioning market economy, as well as the capacity to cope with competitive pressure and market forces within the Union
+  - Ability to take on the obligations of membership including adherence to the aims of political, economic and monetary union
+
+> Stages of accession process (2)
+  - Signing an accession treaty
+  - Ratification of accession treaty and entering the EU
+  - Post-accession monitoring(Cooperation and Verification Mechanism)
+  - Post-accession transitory periods, Schengen accession, EMU accession
+
+> More difficult conditions of next EU enlargements
+  - Post-enlargement fatigure(in OMS and NMS)
+  - Economic crisis in the EU
+  - Most candidates represent low GDP per capita level
+  - Post-conflict situation in Western Balkans
+  - No more 'wholesales' enlargements(like 2004 one)
+  - Weaker carrot & stronger stick: less chances for waivers
+  - Danger of anti-accession backlash (example of Turkey)
+
+> EU Eastern Partnetship Offer
+  - Association Agreement
+  - Deep and Comprehensive FTA
+  - Visa facilitation => Visa liberalization
+  - Comprehensive Institution-Building Programs
+  - Central Asia excluded
+
+***2. Transition countries in early 2010s***
+> End of transition?(1)
+  - Basic transition agenda completed in early 2000s: the largest, fastest and most complex reform episode in contemporary economic history (ca. 15 years)?
+  - In most former communist countries market mechanism coordinates most of productions and investment decisions
+  - Private sector contributes between 60%and 80% of GDP(EBRD, 2010). Eceptions: Turkmenistan(25%), Belarus(30%), Uzbekistan(45% of private sector in GDP) + North Korea and Cuba
+
+> End of transition?(2)
+  - Openness to international trade
+  - Various level of market distortions and various quality of governance
+  - Decade of 2000s: rapid economic growth, low or morderate inflation, remonetization, high international reserves, improvement of fiscal balances; but part of these achievements reversed ni 2008-2010
