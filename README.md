@@ -35,8 +35,12 @@
   - ### [***3. Impact of global financial crisis on EMEs(2)***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#3-impact-of-global-financial-crisis-on-emes2)
   - ### [***4. Impact of global financial crisis on CEE/CIS***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#4-impact-of-global-financial-crisis-on-ceecis)
   - ### [***5. Rebalancing global economy***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#5-rebalancing-global-economy)
-> ## [Week 6. EMEs, globalization and international trade](#600)
-
+> ## [Week 6. EMEs, globalization and international trade](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#emes-globalization-and-international-trade)
+  - ### [***1. EMEs and unrestricted capital movement***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#1-emes-and-unrestricted-capital-movement)
+  - ### [***2. EMEs and international financial institution***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#2-emes-and-international-financial-institution)
+  - ### [***3. EMEs and global trade***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#3-emes-and-global-trade)
+  - ### [***4. Global and regional trade systems***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#4-global-and-regional-trade-systems)
+  - ### [***5. Trade cooperation between advanced economies and EMEs***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#5-trade-cooperation-between-advanced-economies-and-emes)
 
 
 
