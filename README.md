@@ -545,3 +545,32 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
   - Openness to international trade
   - Various level of market distortions and various quality of governance
   - Decade of 2000s: rapid economic growth, low or morderate inflation, remonetization, high international reserves, improvement of fiscal balances; but part of these achievements reversed ni 2008-2010
+
+> ![EBRD average transition scores by sector 1992-2010](https://user-images.githubusercontent.com/88122687/147864968-18f2cd6e-531f-48cd-9ccc-9316b24e3da8.png)
+
+> ![EBRD average transition scores by countries 1992-2010](https://user-images.githubusercontent.com/88122687/147864979-61e2aee1-6cb5-44f4-a76e-3043cdc637b3.png)
+
+> ![HF IEF 2011](https://user-images.githubusercontent.com/88122687/147865013-b2f2b012-4df0-44e2-a9dc-0d2f57cb4f77.png)
+
+> ![FH Freedom in the world scores_EU NMS](https://user-images.githubusercontent.com/88122687/147865028-1ca4da72-f567-4eae-bd1f-37ac19b14bd5.PNG)
+
+> ![FH Freedom in the World score_West Balkans](https://user-images.githubusercontent.com/88122687/147865052-1b84f807-3dbe-40f8-afaa-474d6ae5d1bf.png)
+
+> ![FH Freedom in the world scores_CIS](https://user-images.githubusercontent.com/88122687/147865067-11f057a7-1ed5-41a4-87a9-23421f5880d1.PNG)
+
+> ![Ireelation between economic and political freedoms in transition countries](https://user-images.githubusercontent.com/88122687/147865083-1394d7a1-b894-4ccc-baf4-863f47bcef6d.PNG)
+
+> ![GNI per capita_Atlas method _current US$](https://user-images.githubusercontent.com/88122687/147865140-9ca0a94c-95bb-4d04-b6ca-961cb0925b27.png)
+
+> ![Share in the world's GDP by regions_country groups_in %](https://user-images.githubusercontent.com/88122687/147865184-6926bbed-9761-4aa3-ab59-dbd02cfbbbc1.png)
+
+> Relative weight
+  - Russia: 3% of world GDP in 2010; comparing to China(13.6%)m India(5.5%), Brazil(2.9%)
+  - EU NMS contributed to 5.4% of GDP of EU27 in 2004 and to 7.4% in 2010; Poland: 2.9% of EU27 GPD in 2010, Czech Republic (1.2%), Romania(1%)
+
+> Challenges and problems ahead
+  - Post-crisis environment: slower and more fragile growth, higher debts, volatile commodity markets, inflation pressures
+  - How to improve business climate and governance (CIS and Western Balkans)?
+  - How to avoid marginalization in global economy(CIS, Central Asia)
+  - Unsustainable welfare state(NMS, Western Balkans, Western CIS)
+
