@@ -15,10 +15,18 @@
   ### [***4. Interrelations between economic and political transition***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%202.md#4-interrelations-between-economic-and-political-transition)
   ### [***5. The role of external actors in shaping the transition process***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%202.md#5-the-role-of-external-actors-in-shaping-the-transition-process)
 
-> ## [Week 3. The role of external actors in post-communist transition and economic reforms in Asia](#300)
-## [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](#400)
-## [Week 5. Emerging markets and their role in global economy](#500)
-## [Week 6. EMEs, globalization and international trade](#600)
+> ## [Week 3. The role of external actors in post-communist transition and economic reforms in Asia](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#week-3-the-role-of-external-actors-in-post-communist-transition-and-economic-reforms-in-aisa)
+  ### [***1. Transition countries and the EU***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#1-transition-countries-and-the-eu)
+  ### [***2. Transition countries in early 2010s***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#2-transition-countries-in-early-2010s)
+  ### [***3. Specifics of Chinese transition***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#3-specifics-of-chinese-transition)
+  ### [***4. Main stages of Chinese transition***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#4-main-stages-of-chinese-transition)
+  ### [***5. Economic transition in other Asian countries***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#5-economic-transition-in-other-asian-countries)
+  
+> ## [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](#400)
+
+> ## [Week 5. Emerging markets and their role in global economy](#500)
+
+> ## [Week 6. EMEs, globalization and international trade](#600)
 
 
 
