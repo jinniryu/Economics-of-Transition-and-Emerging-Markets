@@ -1,13 +1,18 @@
-# Economics-of-Transition-and-Emerging-Markets
-## Economics of Transition and Emerging Markets
+# Economics of Transition and Emerging Markets
 
-### List
-* [Week 1. Centrally planned economy its origins, evolution and collapse](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#week-1-centrally-planned-economy-its-origins-evolution-and-collapse)
-* [Week 2. Post-communist transition and its outcomes](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#week-2-post-communist-transition-and-its-outcomes)
-* [Week 3. The role of external actors in post-communist transition and economic reforms in Asia](#300)
-* [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](#400)
-* [Week 5. Emerging markets and their role in global economy](#500)
-* [Week 6. EMEs, globalization and international trade](#600)
+## [Week 1. Centrally planned economy its origins, evolution and collapse](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#week-1-centrally-planned-economy-its-origins-evolution-and-collapse)
+### [***1. Origins of Centrally Planned Economy and its major characteristic***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#1-origins-of-centrally-planned-economy-and-its-major-characteristic)
+### [***2. Attempts to reform CPE***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#2-attempts-to-reform-cpe)
+### [***3. Collapse of the CPE***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#3-collapse-of-the-cpe)
+### [***4. Transition agenda***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#4-transition-agenda****)
+### [***5. Challenges of stabilization and disinflation***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#5-challenges-of-stabilization-and-disinflation)
+### [***6. Privatization***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#6-privatization)
+
+## [Week 2. Post-communist transition and its outcomes](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#week-2-post-communist-transition-and-its-outcomes)
+## [Week 3. The role of external actors in post-communist transition and economic reforms in Asia](#300)
+## [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](#400)
+## [Week 5. Emerging markets and their role in global economy](#500)
+## [Week 6. EMEs, globalization and international trade](#600)
 
 
 
