@@ -1,4 +1,4 @@
-# [Week 3. The role of external actors in post-communist transition and economic reforms in Aisa](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#list)
+# [Week 3. The role of external actors in post-communist transition and economic reforms in Aisa](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#economics-of-transition-and-emerging-markets)
 ## ***1. Transition countries and the EU***
 > EU accession of less developed countries
   - Mediterranean Enlargement of 1980s(Greece, Portugal and Spain)
