@@ -22,7 +22,12 @@
   - ### [***4. Main stages of Chinese transition***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#4-main-stages-of-chinese-transition)
   - ### [***5. Economic transition in other Asian countries***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%203.md#5-economic-transition-in-other-asian-countries)
   
-> ## [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](#400)
+> ## [Week 4. Market reforms in the Arab world, Sub-Saharan Africa and Latin America](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#week-4-market-reforms-in-the-arab-world-sub-saharan-africa-and-latin-america)
+  - ### [***1. Background of Arab transition***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#1-background-of-arab-transition)
+  - ### [***2. Challenges of the Arab Spring***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#2-challenges-of-the-arab-spring)
+  - ### [***3. African legasy of colonialism***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#3-african-legasy-of-colonialism)
+  - ### [***4. Latin American economic populism***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#4-latin-american-economic-populism)
+  - ### [***5. Agenda and results of EME reforms(summary)***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#5-agenda-and-results-of-eme-reformssummary)
 
 > ## [Week 5. Emerging markets and their role in global economy](#500)
 
