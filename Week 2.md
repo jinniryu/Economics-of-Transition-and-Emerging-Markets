@@ -1,4 +1,4 @@
-# [Week 2. Post-communist transition and its outcomes](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#list)
+# [Week 2. Post-communist transition and its outcomes](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#economics-of-transition-and-emerging-markets)
 ## ***1. Political economy of transition and controversies over transition strategy***
 > From the beginning of transition controversy over its speed and strategy
   - Fast vs. gradual transition
