@@ -29,8 +29,12 @@
   - ### [***4. Latin American economic populism***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#4-latin-american-economic-populism)
   - ### [***5. Agenda and results of EME reforms(summary)***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%204.md#5-agenda-and-results-of-eme-reformssummary)
 
-> ## [Week 5. Emerging markets and their role in global economy](#500)
-
+> ## [Week 5. Emerging markets and their role in global economy](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#week-5-emerging-markets-and-their-role-in-global-economy)
+  - ### [***1. Emerging market crisis***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#1-emerging-market-crisis)
+  - ### [***2. Impact of global financial crisis on EMEs(1)***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#2-impact-of-global-financial-crisis-on-emes1)
+  - ### [***3. Impact of global financial crisis on EMEs(2)***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#3-impact-of-global-financial-crisis-on-emes2)
+  - ### [***4. Impact of global financial crisis on CEE/CIS***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#4-impact-of-global-financial-crisis-on-ceecis)
+  - ### [***5. Rebalancing global economy***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%205.md#5-rebalancing-global-economy)
 > ## [Week 6. EMEs, globalization and international trade](#600)
 
 
