@@ -1,6 +1,6 @@
 # Economics of Transition and Emerging Markets
 
-## [Week 1. Centrally planned economy its origins, evolution and collapse](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/README.md#week-1-centrally-planned-economy-its-origins-evolution-and-collapse)
+## [Week 1. Centrally planned economy its origins, evolution and collapse](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#week-1-centrally-planned-economy-its-origins-evolution-and-collapse)
 ### [***1. Origins of Centrally Planned Economy and its major characteristic***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#1-origins-of-centrally-planned-economy-and-its-major-characteristic)
 ### [***2. Attempts to reform CPE***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#2-attempts-to-reform-cpe)
 ### [***3. Collapse of the CPE***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%201.md#3-collapse-of-the-cpe)
