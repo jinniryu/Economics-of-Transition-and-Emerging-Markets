@@ -66,7 +66,7 @@
   - Geographic location
   - Domestic and external political and military conflicts
 
-## ***.3 Market and democracy***
+## ***3. Market and democracy***
 > Historical "stylized" facts
   - Examples of market economy without democracy while no democracies without market and private property;
   - Experience of early capitalism: no or limited democoracy
