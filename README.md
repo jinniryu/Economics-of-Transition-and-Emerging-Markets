@@ -638,3 +638,88 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
   - Export-led growth strategy based on low-cost labor, underappreciated exchage rate and FDI
   - Strong focus on macroeconomic equilibria
   - Limited role of social programs
+
+> Controversy around Chinese 'gradualism'
+  - The initial reform(de-collectivization) was radical
+  - The subsequent gradualism resulted from political resistance within communist party apparatus rather then a priori choice
+  - China has room for gradualist reforms unlike CEE/CIS
+  - Costs of gradualism(income inequality and regional disparities)
+
+> Result of Chinese reforms
+  - Very high growth rate - ca. 10% annually, on average
+  - Second largest economy inthe world(after the US) but less than 12% of US GDP per capita at current prices and 17.5% in PPP terms
+  - The largest world creditor
+  - The largest world manufacturing exporter
+  - More than 70% of GDP contributed by private or quasi-private sector
+  - But property rights not fully transparent
+  - Reduction of poverty
+  - But increase in inequality(Gini coefficient > 0.45)
+  - Relative macroeconomic stability(as for emerging markets standards)
+
+> Challenges ahead
+  - Elements of financial crisis
+  - Forthcoming demographic crisis
+  - Limits of 'extensive' growth and export-led growth
+  - Ecological, social and urbanization barriers
+  - Need for new reform round and change in growth strategy
+
+> ![Working age 15-64 population by regions, in thousands 1950-2030](https://user-images.githubusercontent.com/88122687/147873197-5aa48a22-6a6b-472e-9463-5677405d0980.png)
+
+***5. Economic transition in other Asian countries***
+> Following Chinese experience
+  - Vietnam since 1986(Doi Moi reforms)
+  - Laos since 1986(The New Economic Mechanisms)
+  - Cambodia since 1985
+  - Myanmar(Burma) since 2011
+  - The helpful role of ASEAN integration
+
+> Political and economic reforms in Mongolia
+  - Economically and politically closer to USSR than China
+  - Communist regime and CPE until 1990
+  - Soviet aid - up to 1/3 Mongolian GDP => huge debt(300-700% of GDP depending on exchange rate of transfer ruble)
+  - Soviet-type industrialization => structural distortions
+  - Successful political transition to multi-party democracy
+  - Fast market reforms of early 1990s
+  - Rapid growth based on commodity boom(copper, gold and other non-ferrous metals)
+
+> Background of economic reforms in India
+  - The largest democracy in the world based on the British legal system, federal state
+  - But until 1991 economy policy was based on a sort of Socialist ideoloty(Fabian socialism) and import-subsititution strategy
+  - Two unsuccessful attempts of reforms(1966-1967 and 1985-1987)
+  - Growth(average 3.5%, per capita 1%) slower as compared to neighbors
+
+> Economic system in India before 1991
+  - Predominantly private economy but with large share of public ownership(industry, infrastructure, banks)
+  - Currency inconvertibility
+  - Strong trade protectionism
+  - Internal overregulation('License Raj')
+  - Role of indicative central planning
+  - Large agriculture subsidies
+  - Financial repression
+
+> Triggers of economic reforms in India
+  - Balance-of-payment crisis in 1991
+  - IMF program
+  - More generally:geopolitical competition with China and Pakistan
+  - Government of Narasimaba Rao and Manmohan Singh
+
+> Economic reform in India in 1991
+  - Current account convertibility
+  - Partial trade openness
+  - Partial internal deregulation
+  - Breaking up state monopolies
+  - Reducing subsidies, fiscal adjustment
+  - Privatization
+  - Disinflation
+
+> India's challenges
+  - High growth(7-9%) but slower than China, especially in per capita terms
+  - Remaining large pockets of poverty
+  - High income inequality
+  - Health and education challenges
+  - Corruption
+  - Remaining 'red' tape
+  - Limits on FDI
+  - Remaining trade protectionism(especially agriculture)
+  - Macroeconomic fragilities(near currency crisis in 2013)
+  - Reform stagnation after 2007
