@@ -574,3 +574,67 @@ Fiscal deficit => Increase in short term external debt in relation to GDP, expor
   - How to avoid marginalization in global economy(CIS, Central Asia)
   - Unsustainable welfare state(NMS, Western Balkans, Western CIS)
 
+***3. Specifics of Chinese transition***
+> Wrong comparisions
+  - In 1990s numerous suggestions that CEE/FSU could follow Chinese experience to avoid transition-related output decline(part of the transition-controversy debate) - eg. Rawski or Stiglitz
+  - Apart from wrong interpretation of facts(e.g. Russian 'shock therapy' vs Chinese 'gradualism'), disregard for differences in starting conditions.
+
+> Three differences in starting conditions
+  - Level of economic development and industrialization
+  - Social policy and social services
+  - Political environment
+
+> Level of economic development
+  - At the starting point of market transition(1989-1991) CEE/FSU had GDP PPP per capita level 20-50 times higher than China in 1980
+  ![Original GNI per capita, PPP_current international $](https://user-images.githubusercontent.com/88122687/147871838-8503626b-e287-40e7-b0e7-a832e993b19f.png)
+
+> Structural characteristics
+  - State owned industry was non-competitive in both cases but China was under-industrialized and CEE/FSU over-industrialized, with high share of military industry
+  - Labor surplus in China vs. Labor shortage in CEE/FUS
+  - Ineffective and 'industrialized' agriculture in CEE/FSU: Level of structural distortions in CEE/FSU much higher than in China(e.g. higher energy intensity)
+
+> Share of military expenditure in GDP in %(1989)
+  - China 2.7
+  - Hungary 3.1
+  - Poland 1.9
+  - Romania 4.8
+  - Russia 17.5
+
+> Differences on a social front
+  - In China only public sector employees covered by publicly financed pension system and other social policy instruments(ca. 20% of pupulation)
+  - In CEE/FSU excessive burden of social programs(legitimization attempt of late communist regimes)- share in GDP close to that in Western Europe
+  - Higher level of social services(health, education, etc) provision in CEE/FSU comparing to China
+
+> Diffrences on political front
+  - At the late stage of communism governments in CEE/FSU unable to use coercive power on massive scale => inability to continue selectively elements of command system (opposite situation in China)
+  - Finally spontaneous collapse of the centrally planned economy in CEE/FSU
+  - Demand for democratization in CEE/ part of FSU
+
+> Consequences for transition strategies
+  - CEE/FSU had to de-industrialize in order to create room for market-oriented restructuring. China had free resources (surplus labor in agriculture) - analogy with NEP in USSR in 1920s
+  - Easy way of privatizing agriculture in China and starting new private/ quasi-private sector outside agriculture
+  - Necessity to reduce social spending in CEE/FSU in order to secure macroeconomic stability
+  - Building market economy under authoritarian regime was not the option for most CEE/FSU countries in late 1980s/early 1990s wile it was the option for China
+  - 'Gradualism' less promising in CEE/FSU because of government inability of 'fine tuning' (sometimes even problems with providing basic public goods); in addition, disappointing  experience with 'market socialism' reforms before
+
+***4. Main stages of Chinese transition***
+> Economic history before Mao
+  - Until early 19th century the largest world economy (>30% of world GDP) with GDP per capita level at world's average even if Chinese economy stagnated since 16th century
+  - Most of 19th and 20th centuries - stagnation or decline caused by political developments(short period of fster growth in 1920s and early 1930s)
+
+> Economic model of Mao Zedong
+  - Soviet-type central planning system
+  - Collectivization of agriculture - People's communes => famine
+  - Forceful industrialization of Stalinist type - 'The Great Leap Forward'(1958-1959) => collapse of the economy
+  - Cultural revolution of 1966-1969(1971)
+
+> Stages of Chinese reforms
+  - 1978-1984(Deng Xiaoping): de-collectivization of agriculture (the 'household responsibility system'), dual price system in urban industry, special economic zones(FDI), private enterprises allowed
+  - 1984-1993(Deng Xiaoping, Hu Yaobang, Zhao Ziyang): decentralization (=> regional experiments), township and village enterprises, reopening Shanghai Stock Exchange; but also suppression of the Tiananmen Square protests of 1989
+  - 1993-2005(Jiang Zemin and Zhu Rongji): unifying exchange rate and current account convertibility, trade liberalization, joining the WTO, Large-scale privatization, financial sector reform
+  - Since 2005(Hu Jintao): reform stagnation, more subsidies, lax monetary policy leading to credit and real-estate bubbble, public investment boom, increasing international controversies over underappreciated exchage rate
+
+> Common features of Chinese policies
+  - Export-led growth strategy based on low-cost labor, underappreciated exchage rate and FDI
+  - Strong focus on macroeconomic equilibria
+  - Limited role of social programs
