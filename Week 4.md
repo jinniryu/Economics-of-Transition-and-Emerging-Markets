@@ -93,6 +93,121 @@
   - Unsolved political conflicts between neighbors
   
 ## ***3. African legasy of colonialism***
-> 
+> Political legacy of colonialism
+  - Until late 1950s most of Sub-Saharan Africa under political control of UK, France, Portugal, Belgium and Spain
+  - 1960 - start of mass decolonization; 1975 - Portuguese colonies
+  - Artificial borders, ethnic and religious cvonflicts, civil and regional wars
+  ![Africa's decolonization](https://user-images.githubusercontent.com/88122687/147901855-6b5ab90d-a44a-4207-8e8e-c678281f87b8.png)
+  - Military and civilian dictatorships
+  - Soviet influence in Angola, Mozambique, Ethiopia
+  - European miniority regimes in South Africa, Zimbabwe and Namibia
+
+> Economic legacy of colonializm
+  - Low-income countries
+  - Poor education and health standards
+  - Mostly subsistence agriculture
+  - Exports - agriculture and mineral commodities
+  - Weak infrastructure
+
+> Post-colonial policies
+  - Nationalization and etatism
+  - Protectionism, import-subsititution
+  - 'Socialist' experiments and policies, e.g., Angola, Mozambique, Ethiopia, Zimbabwe(=> hyperinflation)
+  - Aid dependence; several debt write-offs
+
+> Changes in 1990s and 2000s
+  - Progress in democratization
+  - End of many conflicts (but not all of them) => peace dividend
+  - Gradual market reforms
+  - Commodity boom
+  - Lower inflation, higher growth
+  ![SSA_Annual growth of real GDP in %](https://user-images.githubusercontent.com/88122687/147902036-378ff24d-ac66-4c70-baed-33b8b2594768.PNG)
+
+> Economic reforms since 1980s
+  - Price liberalization
+  - Current account convertibility
+  - Trade liberalization
+  - Reducing the role of state monopolies
+  - Privatization
+  - Opening to FDI
+  - Land reforms 
+  - Financial sector reforms
+
+> Sub-gegional integration
+  - Monetary unions: WAEMU, CEMAC, Common Monetary Area in Southern Africa
+  - Economic cooperation blocks: ECOWAS, SADC, IGAD
+  - Trade integration not very advanced
+
+> Challenges ahead
+  - Low development level
+  ![GPD per capita in PPP terms_current USD](https://user-images.githubusercontent.com/88122687/147902544-b2121317-f6f5-46f4-8a66-f03a9ff9ae81.png)
+  - Poverty and income inequality
+  - Health and education
+  - Poor infrastructure
+  - Poor business climate and governance
+  - Continuous conflicts
+  - Limited regional integration
+  
 ## ***4. Latin American economic populism***
+> Examples of LA economic populism
+  - Juan Peron, Argentina(1946-1955)
+  - Fernando Belaunde, Peru(1963-1968, 1980-1985)
+  - Juan Velasco, Peru(1968-1975)
+  - Salvador Allende, Chile(1970-1973)
+  - Military junta in Argentina(1976-1983)
+  - Daniel Ortega, Nicaragua(1979-1990)
+  - Hernan Siles, Bolivia(1982-1985)
+  - Raul Alfonsin, Argentina(1983-1989)
+  - Alan Garcia, Peru(1985-1990)
+  - Hugo Chavez and Nicolas Maduro, Venezuela(since 1999)
+
+> Social roots of populist policies
+  - Extreme wealth and income inequalities
+  - Attempt to protect urban poor against landowners/commodity exporters
+  - Negative effects damaged mostly poor
+
+> Intellectual roots of economic populism
+  - Dependency theory(Hans Singer, Raul Prebisch, Paul A. Baran, Celso Furtado, Paul Sweezy, Fernando Henrique Cardoso)
+  - Heterodox economics(e.g. monetary and fiscal stimulation under price and wage control)
+
+> two types of populist policies
+  - Overspending in boom periods(Peron in 1940s, Chavez in 2000s)
+  - Monetary and fiscal expansion in response do adverse shocks(1980s)
+  - Result: BoP crisis, high inflation/hyperinflation, sovereign defaults, sometimes banking crisis
+
+> Populist structural policies
+  - Land reforms
+  - Nationalization
+  - Trade protectionism and currency restictions
+  - Import substitution industrialization financed by foreign borrowing
+
+> Hyperinflations in LA
+  - Chile 1973
+  - Bolivia 1984-1985
+  - Nicaragua 1986-1991
+  - Peru 1988 and 1990
+  - Argentina 1989-1990
+  - Brazil 1989-1990
+
+> Financial crises
+  - Series of debt crises since August 1982(Mexico, Chile, Argentina, Brazil and others)
+  - Mexican crisis of 199401995 followed by 'Tequila' crisis
+  - Brazilian crisis of 1998-1999
+  - Argentina crisis of 2000-2001
+  ![The spectacular failure of Argentina](https://user-images.githubusercontent.com/88122687/147903070-95135764-2c77-4a8d-9dff-c155d41d8d86.png)
+
+> Reforms of 1980s and 1990s
+  - Macroeconomic stabilization
+  - Internal and external liberalization
+  - Privatization (including infrastructure)
+  - Pension reforms
+  - Regional integration projects(MERCOSUR, CARIFORUM, ANDEAN Community)
+
+> Effects of reforms 
+  - Disinflation and higher growth
+  - Higher resilience to adverse shocks(period of global financial crisis 2008-2009)
+  - But populist policies continue (Venezuela, Argentina, Ecuador, Bolivia)
+
+> ![LAC annual growth of real GDP in % 1980-2013](https://user-images.githubusercontent.com/88122687/147903614-56088da6-0608-40ca-9a8b-01e0ec83fef6.png)
+
 ## ***5. Agenda and results of EME reforms(summary)***
