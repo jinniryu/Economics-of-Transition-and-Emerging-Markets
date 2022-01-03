@@ -41,8 +41,45 @@
   - Seeking macroeconomic and social stability
 
 > Arab reforms since 1980s
+  - Less price control, cutting subsidies
+  - Towards unified exchange rate
+  - Tighter fiscal and monetary policies
+  - Trade liberalization (unilateral, WTO, FTA with the EU, US, within the region)
+  - Greater role of private investment, including FDI
+  - Privatization(also with foreign participation)
+  - Financial sector reform, opening stock exchanges
 
 ## ***2. Challenges of the Arab Spring***
+> Brief history of the Arab Spring
+  - Started in December 2010 in Tunisia; spread in early 2011 to Egypt, Libya, Yemen, Syria and Bahrain
+  - Partly affected Jordan, Morocco and Kuwait => (Some reforms within constitutional monarchies)
+  - In early 2014
+    - Only Tunisia a tentative success story (new constitution, stable government)
+    - Civil war in Syria, negativerly affecting Lebanon, Jordan, Iraq and Turkey
+
+> Economic agendas in 2010s
+  - Some similarities between Arab countries and CIS(distorted capitalism, poor business climate and infrastructure, corruption, nepotism, dependence on commodity exports, incomplete integration into the global and regional economy)
+  - Less similarities between Arab countries and CEE which are either EU menbers or candidates
+
+> Economic challenges in the Arab region - short and medium term
+  - Humanitarian crisis resulting from the civil war in Syria
+  - Post-conflict reconstruction(Libya, Syria, Iraq)
+  - Fuel and energy subsidies, large public sector, increasing fiscal imbalances and public debt
+  - Continuation of previous reforms in more fair and transparent way
+
+> ![Pre-tax energy subsidies and spending on education in MENA counties in % of GDP](https://user-images.githubusercontent.com/88122687/147893627-2d827816-ed7d-422c-b5af-7d3307272d5e.PNG)
+
+? ![Public-sector wage bill as % of GDP in selected countries 2011](https://user-images.githubusercontent.com/88122687/147893662-77dc26aa-f5b5-4f31-a98e-c9cc6656593c.png)
+
+> Long-term economic challenges in the Arab world
+  - Low-to-medium-level of GDP per capita(apart from Gulf Countries, Lebanon and Libya)
+    ![GDP per capita in PPP terms, current international dollars 2010](https://user-images.githubusercontent.com/88122687/147893720-b95e3d4d-1c25-4750-8f62-0db040e7e79d.PNG)
+  - High population growth
+  - Low education level(including continuous illiteracy)
+    ![Literacy rate in selected Arab countries, compared to worst-performing post-communist country_Albania](https://user-images.githubusercontent.com/88122687/147893968-c8f8948d-0000-4407-b548-4ce025f564c5.png)
+  - Gender inequality
+    ![Indicators of Gender Inequality](https://user-images.githubusercontent.com/88122687/147894029-63b29556-1369-4f40-b758-f28dcc38127a.PNG)
+
 ## ***3. African legasy of colonialism***
 ## ***4. Latin American economic populism***
 ## ***5. Agenda and results of EME reforms(summary)***
