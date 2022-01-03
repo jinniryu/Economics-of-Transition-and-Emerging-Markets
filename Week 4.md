@@ -18,7 +18,7 @@
   - Price controls, subsidies, price distortions(especially food and energy)
   - Key role of public ownership, political/party/military/security nominations for managerial positions
   - Autarky, import-substitution industrialization, protectionism
-  - Burden of military.security spending
+  - Burden of military security spending
   - Social emplyment in public sector
   - Some of these characteristics present in non-socialist Arab countries
 
@@ -207,7 +207,6 @@
   - Disinflation and higher growth
   - Higher resilience to adverse shocks(period of global financial crisis 2008-2009)
   - But populist policies continue (Venezuela, Argentina, Ecuador, Bolivia)
-
-> ![LAC annual growth of real GDP in % 1980-2013](https://user-images.githubusercontent.com/88122687/147903614-56088da6-0608-40ca-9a8b-01e0ec83fef6.png)
+  ![LAC annual growth of real GDP in % 1980-2013](https://user-images.githubusercontent.com/88122687/147903614-56088da6-0608-40ca-9a8b-01e0ec83fef6.png)
 
 ## ***5. Agenda and results of EME reforms(summary)***
