@@ -34,7 +34,7 @@
   - debt level
   - debt dynamics; if it grows rapidly it will create an additional risk factor;
   - outstanding debt maturity; if it is short it can cause problems with debt rollover;
-  - availability of liquid financial assets, i.e., the difference between gross and net debt
+  - availability of liquid financial assets, i.e., the difference between gross and net debt;
   - the share of non-residents among creditors; their high share may increase risk of their sudden exit from government bond market exit in the case of global or regional crisis;
   - the share of short-term investors among creditors (which also increase the risk of their sudden outflow the case of adverse shock);
   - the share of the debt liabilities denominated in foreign currency (important in case of currency depreciation)
