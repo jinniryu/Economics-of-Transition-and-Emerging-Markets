@@ -69,9 +69,9 @@
 
 > ![Pre-tax energy subsidies and spending on education in MENA counties in % of GDP](https://user-images.githubusercontent.com/88122687/147893627-2d827816-ed7d-422c-b5af-7d3307272d5e.PNG)
 
-? ![Public-sector wage bill as % of GDP in selected countries 2011](https://user-images.githubusercontent.com/88122687/147893662-77dc26aa-f5b5-4f31-a98e-c9cc6656593c.png)
+> ![Public-sector wage bill as % of GDP in selected countries 2011](https://user-images.githubusercontent.com/88122687/147893662-77dc26aa-f5b5-4f31-a98e-c9cc6656593c.png)
 
-> Long-term economic challenges in the Arab world
+> Long-term economic challenges in the Arab world(1)
   - Low-to-medium-level of GDP per capita(apart from Gulf Countries, Lebanon and Libya)
     ![GDP per capita in PPP terms, current international dollars 2010](https://user-images.githubusercontent.com/88122687/147893720-b95e3d4d-1c25-4750-8f62-0db040e7e79d.PNG)
   - High population growth
@@ -80,6 +80,19 @@
   - Gender inequality
     ![Indicators of Gender Inequality](https://user-images.githubusercontent.com/88122687/147894029-63b29556-1369-4f40-b758-f28dcc38127a.PNG)
 
+> ![Youth unempolyment in MED countries % of labor force in age 15-24 2007](https://user-images.githubusercontent.com/88122687/147894073-fae274cd-26ce-438c-9a77-0b7d652f6d8d.png)
+
+> ![Indicators of business climate in MED11 countries](https://user-images.githubusercontent.com/88122687/147894098-ff208354-015e-4f65-bbb9-4470b181565f.PNG)
+
+> ![Military expenditure % of GDP 1980-2012](https://user-images.githubusercontent.com/88122687/147894141-f865119a-decc-4271-91e9-f37d8c692ba1.PNG)
+
+> Long-term economic challenges in the Arab world(2)
+  - High unempolyment, especially among women and youth
+  - Remaining trade protectionism(tariffs, NTBs, LPI)
+  - Poor infrastructure
+  - Unsolved political conflicts between neighbors
+  
 ## ***3. African legasy of colonialism***
+> 
 ## ***4. Latin American economic populism***
 ## ***5. Agenda and results of EME reforms(summary)***
