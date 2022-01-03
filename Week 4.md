@@ -210,3 +210,55 @@
   ![LAC annual growth of real GDP in % 1980-2013](https://user-images.githubusercontent.com/88122687/147903614-56088da6-0608-40ca-9a8b-01e0ec83fef6.png)
 
 ## ***5. Agenda and results of EME reforms(summary)***
+> EME: Before reforms
+  - Extensive price controls and subsidies
+  - Multiple exchange rates
+  - Trade protectionism
+  - Import-substitution industrialization
+  - Large public sector
+  - Restrictions on FDI
+  - In some: excessive militarization
+
+> EME: Outcomes of bad policies
+  - Slowing growth/ recessions
+  - High inflation/ hyperinflation
+  - Sometimes market shortages
+  - Low external competitiveness
+  - Structural distortions
+  - Overemployment in public sector/ public enterprises
+
+> EME: major economic reforms
+  The so-called Washington consensus:
+  - Macroeconomic stabilization
+  - Price liberalization
+  - Currency convertibility
+  - Trade liberalization
+  - Privatization
+  - Opening to FDI
+  - Financial sector reform
+  - Targeted social assistance
+
+> EME: political transition
+  - In many countries(Latin America, Africa, partly Asia) transition from authoritarian regimes and unstable democracies to more stable democracies
+  - Reforms of public administration and judiciary
+
+> EME: outcomes of reforms
+  - Higher growth
+  ![GDP in constant prices, annual change in %, country groups 1980-2012](https://user-images.githubusercontent.com/88122687/147913054-d7aff686-b304-4cb0-bba1-7f15a80fc3f3.png)
+  - Poverty reduction
+  ![Poverty gap at 2USD a day_PPP](https://user-images.githubusercontent.com/88122687/147913184-abcc5e2a-df6f-4e60-805b-3d89f344a6f4.png)
+  - Lower inflation
+  ![EME_end-of-year annual CPI inflation in % 1982-2001](https://user-images.githubusercontent.com/88122687/147913322-33c06ea9-0645-42b8-9356-c143f5eef97e.png)
+  ![CEE   CIS_end-of-year annual CPI inflation in % 1991-2001](https://user-images.githubusercontent.com/88122687/147913423-725c607e-3215-459f-9e3c-b6b6680be44e.png)
+  ![Major regions_end-of-year annual CPI inflation in % 2002-2012](https://user-images.githubusercontent.com/88122687/147913560-d9f3dfda-5823-4806-84d0-957b94b06366.png)  
+  - FDI inflow
+  - Structural diversification
+  - Higher competitiveness
+
+> EME: remaining vulnerabilities
+  - High dollarization('original sin')
+  ![Foreign-currency-denominated liabilities to total liabilities](https://user-images.githubusercontent.com/88122687/147914080-f94ae43a-4d60-4ff1-a144-df5b3bf9c538.png)
+  - Poor business climate, corruption, nepotism, state capture, organized crime, etc.
+  - Remaining restrictions on foreign capital
+  - Incompelete political transition
+  - Recurrence of populism
