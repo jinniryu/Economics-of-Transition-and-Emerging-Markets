@@ -229,3 +229,34 @@
   ![Emerging Europe_Share of assets owned by foreign banks subsidiaries end-2008](https://user-images.githubusercontent.com/88122687/148011137-451990bd-ddf1-4f12-9e22-ea2b27071597.png)
 
 ## ***5. Rebalancing global economy***
+> ![GDP(PPP) in millions of 1990 international Dollars](https://user-images.githubusercontent.com/88122687/148011761-74014b08-2624-4913-82d9-0aad8c04bda4.PNG)
+
+> ![Share in the global GPD PPP based in % 1980-2012](https://user-images.githubusercontent.com/88122687/148011768-9a8d7fb1-fcca-4ca7-9291-9cae6ef9d387.png)
+
+> ![Waxing and waning](https://user-images.githubusercontent.com/88122687/148011777-0c1497aa-b84f-4b51-926b-1d5f654756f8.png)
+
+> ![GDP Real US$ billions(Big Five+M   G7)](https://user-images.githubusercontent.com/88122687/148011784-e39f830f-3f0d-4332-8ba5-66aca96202c0.PNG)
+
+> ![GDP Real US$ billions(2009   2030   2050)](https://user-images.githubusercontent.com/88122687/148011799-75c5f073-01fd-4247-914d-d2b92bfcf734.PNG)
+
+> ![GDP Real US$ billions(2009   2030   2050)_many countries](https://user-images.githubusercontent.com/88122687/148011807-0af74308-5ef8-4a0e-a303-e58069b61a48.PNG)
+
+> Risk of extrapolation scenarios
+  - Limits of catching up growth
+  - Demographic barriers
+  ![Working age(15-64) population by regions in thousands 1950-2030](https://user-images.githubusercontent.com/88122687/148011992-19852627-fbd1-4018-a700-3f6a1864c9f4.png)
+  - Environmental barriers
+  - Political risks 
+  - Example of Japan in 1980s
+
+> Beyond global GDP
+  - GPD per capita (its dynamics depends also on demographic trends)
+  ![Per capita GDP Real US$](https://user-images.githubusercontent.com/88122687/148012154-fcb800a3-d0ea-4fe5-89d9-b31bf755f59a.png)
+  - Innovation and technological leadership
+  - The role of financial and corporate management centers
+
+> Consequences for global governance
+  - From G-7 to G-20
+  - The role of BRICS (Brazil, Russia, India, China and South Africa)
+  - Changes in the quota system of the IMF and World Bank
+  - Re-composition of the UN Security Council
