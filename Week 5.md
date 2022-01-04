@@ -181,4 +181,51 @@
   ![EME_GG gross debt as % of GDP](https://user-images.githubusercontent.com/88122687/147997515-43dfaf5b-92af-422d-98ef-609dbca93708.PNG)
 
 ## ***4. Impact of global financial crisis on CEE/CIS***
+> Factors Behind CEE/CIS Booms Before 2008
+  - Global economic boom (including commodity boom) fuelled by expansive US monetary policy and lax financial regulations
+  - Post-transition growth recovery
+  - EU accession (part of the region)
+
+> ![Emerging Europe_real GDP annual change in % 2001-2010](https://user-images.githubusercontent.com/88122687/148009486-ae35e98f-ef5e-4959-acd4-01db906ba2f8.PNG)
+
+> Regions's vulnerabilities
+  - Exceptionally low risk premia
+  - Rapid capital inflows and credit boom (victims of its own success) => limited appetite for prudent polices
+  - High trade dependence on the EU
+
+> ![Net private capital flows and current account balance in CEE countries 1990-2011 in USD billion](https://user-images.githubusercontent.com/88122687/148009744-9ac04b8c-6ef4-4be2-898a-038efe04defa.png)
+
+> Country-specific vulnerabilities
+  - dependence on commodity prices (FSU)
+  - dependence on privileged trade relation *BY)
+  - maturity and currency mismatches (including borrowers)
+  - tax incentives for mortgage borrowing (Baltics)
+  - weak financial supervision
+  - fiscal imbalances (especially if structurally adjusted)
+  - unfinished transition agenda (largely FSU)
+
+> ![Emerging Europe_current account balance as % of GDP](https://user-images.githubusercontent.com/88122687/148010244-7d2c6d4f-4261-42d5-9895-36eaf0461697.png)
+
+> ![Emerging Europe_GG net lending   borrowing as % of GDP](https://user-images.githubusercontent.com/88122687/148010261-05f3be87-cd18-469d-b4ec-8ed4370f2314.png)
+
+> ![Emerging Europe _ GG structural balance as % of potential GDP](https://user-images.githubusercontent.com/88122687/148010554-929d4a59-783a-42ab-bbb6-d586887f1ae6.PNG)
+
+> ![Emerging Europe_GG gross debt as % of GDP 2001-2010](https://user-images.githubusercontent.com/88122687/148010561-f3c70d34-2126-4f7f-a048-90b4b761ad66.png)
+
+> ![Change in Ratio of Private Sector Credit to GDP 2003-8_percentage points](https://user-images.githubusercontent.com/88122687/148010570-0a2828ef-b5ed-4fb6-a738-952955e26697.PNG)
+
+> ![Emerging Europe_change in real estate prices 2003-08_percent](https://user-images.githubusercontent.com/88122687/148010573-14fbf4d1-0ab0-46f5-8cf5-618a09a80af6.PNG)
+
+> IMF programs in 2008-2011
+  - Standby arrangements: Hungary, Ukraine, Serbia, Latvia, Belarus, Romania, Moldova, Bosnia and Herzegovina (+ Iceland)
+  - FCL: Poland
+  - PCL: Macedonia
+
+> The Vienna Initiative
+  - Attempt to arrest regional contagion through banking channel
+  - Private Sector Involvement(PSI) - to avoid using IFIs resources for full bail out of private creditors (lessons from emerging-market crises in 1980s and 1990s)
+  - Largely successful
+  - Ownership structure of CEE banks helped
+  ![Emerging Europe_Share of assets owned by foreign banks subsidiaries end-2008](https://user-images.githubusercontent.com/88122687/148011137-451990bd-ddf1-4f12-9e22-ea2b27071597.png)
+
 ## ***5. Rebalancing global economy***
