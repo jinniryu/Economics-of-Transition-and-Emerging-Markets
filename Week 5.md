@@ -145,6 +145,40 @@
   - Closer international cooperation
  
 ## ***3. Impact of global financial crisis on EMEs(2)***
+> How crisis has been transmitted to emerging markets?
+  - Weaker global demand
+  - Fall of commodity prices
+  ![IMF Index of Primary Commodity Prices 2005=100](https://user-images.githubusercontent.com/88122687/147995991-ce95e026-e3a6-49e2-953e-fc9a7c116bae.png)
+  - Global liquidity squeeze
+  - Troubles of financial institutions
+  - Increasing risk aversion
+  - Increased exchange rate volatility
+  - Crowding out financial resources by fiscal stimulus
+  ![Net private financial flows by major emerging-market regions 1990-2011](https://user-images.githubusercontent.com/88122687/147996179-e7ac4cef-64a6-47c8-bbfe-c9d3500d4ad1.png)
+  - Decreasing demand for labor migrants
+
+> ![Countries most affected by the financial crisis through financial channels](https://user-images.githubusercontent.com/88122687/147996778-1787bba8-4884-410d-bcfc-3023850db981.png)
+
+> ![EMDE_real DGP annual change in %](https://user-images.githubusercontent.com/88122687/147996845-7ff14c0a-f75f-4e3e-a7ed-593ca7f884f9.png)
+
+> EME's Vulnerabilities
+  - High level of trade and financial openness
+  - Deep recession in major destination markets
+  - Sector characteristics(basic commodities, car industry, financial sector and housing/ real estate booms)
+  - Currency and time mismatches in corporate and household sector
+  - Lax fiscal policy in good times/ no fiscal reserves 
+  - Poor business climate in some countries
+  - Immature and fragile financial sector 
+  - Limited credibility of domestic currencies (high level of actual dollarization / euroization in some countries)
+  ![GDP growth in 2009(X-axis in %) VS GDP PPP per capita level (Y-axis in current international dollars)_2006](https://user-images.githubusercontent.com/88122687/147997153-a51bd709-e173-4ef5-b5e0-0345356a2586.png)
+
+  ![GDP growth in 2009(X-axis in %) vs exports-to-GDP ratio (y-axis in %) in 2006](https://user-images.githubusercontent.com/88122687/147997279-d71d92fc-4a47-4b44-ac02-fad9f6702aa2.png)\
+  
+  ![Average current account balance in 2005-2007 (X-axis, in % of GDP) vs  GDP growth in 2009(Y-axis in %)](https://user-images.githubusercontent.com/88122687/147997501-4a5a7c3c-3e2c-40be-94d4-ea0c9037e2ea.PNG)
+
+  ![Average GDP growth 2003-7(X-axis in %) vs growth in 2009 (y-axis in %)](https://user-images.githubusercontent.com/88122687/147997510-ad0278f9-976e-4579-a242-72cf56218253.PNG)
+
+  ![EME_GG gross debt as % of GDP](https://user-images.githubusercontent.com/88122687/147997515-43dfaf5b-92af-422d-98ef-609dbca93708.PNG)
 
 ## ***4. Impact of global financial crisis on CEE/CIS***
 ## ***5. Rebalancing global economy***
