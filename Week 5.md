@@ -172,7 +172,7 @@
   - Limited credibility of domestic currencies (high level of actual dollarization / euroization in some countries)
   ![GDP growth in 2009(X-axis in %) VS GDP PPP per capita level (Y-axis in current international dollars)_2006](https://user-images.githubusercontent.com/88122687/147997153-a51bd709-e173-4ef5-b5e0-0345356a2586.png)
 
-  ![GDP growth in 2009(X-axis in %) vs exports-to-GDP ratio (y-axis in %) in 2006](https://user-images.githubusercontent.com/88122687/147997279-d71d92fc-4a47-4b44-ac02-fad9f6702aa2.png)\
+  ![GDP growth in 2009(X-axis in %) vs exports-to-GDP ratio (y-axis in %) in 2006](https://user-images.githubusercontent.com/88122687/147997279-d71d92fc-4a47-4b44-ac02-fad9f6702aa2.png)
   
   ![Average current account balance in 2005-2007 (X-axis, in % of GDP) vs  GDP growth in 2009(Y-axis in %)](https://user-images.githubusercontent.com/88122687/147997501-4a5a7c3c-3e2c-40be-94d4-ea0c9037e2ea.PNG)
 
