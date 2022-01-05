@@ -145,4 +145,114 @@
 > ![Commodity Concentration(net commodity exports_percent of GDP)](https://user-images.githubusercontent.com/88122687/148197251-61ee543b-bd24-41f3-aec6-21c66f1a5fae.PNG)
 
 ## ***4. Global and regional trade systems***
+> ![Memory of the Great Depression 1929-1933](https://user-images.githubusercontent.com/88122687/148199556-62213dbb-89bf-45bc-8a3d-d6c43efaf96a.png)
+
+> From GATT to WTO
+  - 1947-1948 - UN Conference on Trade and Employment in Havana to establish the International Trade Organization, 3rd pillar of Bretton Woods intitutions
+  - Failure to ratify the ITO charter by the US Congress and some other parliaments
+  - Parallel negotiations on tariffs reduction led to signing General Agreement on Tariffs and Trade in Geneve(1947), which replaced ITO
+  - Seven rounds of GATT negotiations between 1949 and 1994
+  ![GATT trade rounds](https://user-images.githubusercontent.com/88122687/148200359-9a4c2179-f5cd-4ce6-82fb-09de551a3b9f.png)
+  - Marrakesh(1994): creating the world Trade Organization since 1995
+  - 2001 - start of the Doha Development Round
+  - December 2013 - Bali agreement on trade facilitation
+  
+> Global character of the WTO
+  - 159 members as of March 2, 2013
+  - EME outside WTO: Afghanistan, Algeria, Azerbaijan, Belarus, Bosnia & Herzegovina, Ethiopia, Iran, Iraq, Kazakhstan, Lebanon, Leberia, Libya, Serbia, Sudan, Syria, Trukmenistan, Uzbekistan, Yemen, etc.
+
+> WTO agenda
+  - Trade in goods(GATT)
+  - Trade in services(GATS)
+  - Intellectual property rights(TRIPS)
+  - Dispute settlement (arbitrage)
+  - Trade Policy Review Mechanism
+
+> GATT agenda
+  - Agriculture
+  - Health regulations for farm products(SPS)
+  - Textiles and clothing
+  - Product standards(TBT)
+  - Investment measures
+  - Anti-dumping measures
+  - Customs valuation methods
+  - Pre-shipment inspection
+  - Subsidies and counter-measures
+  - Rules of origin
+  - Import licensing
+  - Safeguards
+
+> GATS agenda
+  - Movement of natural persons
+  - Air transport
+  - Financial services
+  - Shipping
+  - Telecommunications
+
+> ![Structure of WTO agreements](https://user-images.githubusercontent.com/88122687/148201567-a87f28ff-8fce-4607-82db-94fa10f107ec.PNG)
+
+> Doha Development Round
+  - Agriculture
+  - Services
+  - Market access
+  - TRIPS
+  - Trade and investment
+  - Trade and competition policy
+  - Government procurement
+  - Trade facilitation
+  - WTO rules
+  - Dispute settlement understanding
+  - Trade and environment
+  - Electronic commerce
+  - Small economies
+  - Trade, debt and finance
+  - Transfer of technology
+  - Technical cooperation
+  - Least-developed countries
+  - Special and differential treatment
+
+> Regional Trade Agreement(RTA)
+  - Exception from WTO non-discrimination principle (MFN treatment)
+  - Trade creation vs. trade diversion
+  - Oftern include non-economic agenda
+  - Impasse of Doha round => new round of RTAs in Asia, Africa, LA, EU, US, etc.
+  - Will they help in reaching a new global agreement? - RTAs are 'termites in trading system' (Jagdish Bhagwati)
+
+> Types of RTAs
+  - Partial scope agreement
+  - Free trade agreement(simple, deep)
+  - Customs union
+  - Common market
+  - Economic union
+  - Preferential trade arrangements (unilateral for LDCs)
+
+> Examples of customs unions
+  - European UnionEU)
+  - Belarus-Kazakhstan-Russia
+  - EU-Turkey
+  - Andean Community
+  - Caribbean Cummunity and Common Market(CARICOM)
+  - Central American Common Market
+  - Common Market for Eastern and Southern Africa(COMESA)
+  - East African Community
+  - Economic and Monetary Community of Central Africa(CEMAC)
+  - Economic Community of West Afican States(ECOWAS)
+  - Gulf Cooperation Council(GCC)
+  - West African Economic and Monetary Union(WAEMU)
+  - Southern Common Market(MERCOSUR)
+  - Southern African Customs Union(SACU)
+
+> Examples of multilateral FTAs
+  - European Economic Area(EEA)
+  - European Free Trade Area(EFTA)
+  - Central European Free Trade Agreement(CEFTA)
+  - Commonwealth of Independent States(CIS)
+  - Association of South East Asian Nations(ASEAN)
+  - North American Free Trade Agreement(NAFTA)
+  - Southern African Development Community(SADC)
+  - Pacific Island Countries Trade Agreement(PICTA)
+
+> Two big trade deals on the table
+  - Trans-Pacific Partnetship(Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, US, Vietnam)
+  - Transatlantic Trade and Investment Partnership(EU-US)
 ## ***5. Trade cooperation between advanced economies and EMEs***
