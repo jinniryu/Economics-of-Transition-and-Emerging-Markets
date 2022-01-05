@@ -255,4 +255,106 @@
 > Two big trade deals on the table
   - Trans-Pacific Partnetship(Australia, Brunei Darussalam, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore, US, Vietnam)
   - Transatlantic Trade and Investment Partnership(EU-US)
+  
 ## ***5. Trade cooperation between advanced economies and EMEs***
+> Advanced economies and global trade
+  - 61.1% of global exports of goods and services(2013) of which
+    - EU > 30% (Eurozone - 25.3%)
+    - US  9.8%
+    - Japan - 3.6%
+    - G7 - 33.4%
+
+> The main characteristics of the EU
+  - Started in 1957 as the EEC, Treaty of Rome, 6 funding members, 7 subsequent enlargements
+  - Customs Union & Common Market - all (28) members
+  - Economic and Monetary Union - 18 members
+  - Schengen zone - 23 members + 4 non-members
+  - EU budget (ca. 1% of GNI), cross-country redistribution, several common policies, including JHA and CFSP
+  - Non-homogenous architecture(opt-outs, transitory periods, country specific provisions => "Europe of various speeds")
+
+> The economic position of the EU
+  - 19.4% of world's GDP in PPP terms(2012)
+  - EUR: second most important currency
+  - Source of capital and technology
+  - Financial and corporate governance center
+  - Large internal market(SEM)
+  - Low external tariffs for industrial goods => interest of other countries and economic blocks (especially neighbors) in close economic cooperation
+
+> Cooperation with neighboring countries
+  Article 8 of the TEU: the EU '...shall develop a special relationship with neighbouring countries, aiming to establish an area of prosperity and good neighbourliness, founded on the values of the Union and characterised by close and peaceful relations based on cooperation'
+  
+> EU cooperation with future members
+  - actual EU candidates (Macedonia, Montenegro, Serbia, Turkey)
+  - potential EU candidates (Albania, Bosnia & Herzegovina, Kosovo)
+  - Stabilization and Association Agreements (all except Kosovo): 'deep' FTA, partial access to SEM
+  - customs union with Turkey (manufactured goods only)
+
+> European Neighborhood Policy
+  - Eastern Partnership: Armenia, Azerbaijan, Belarus, Georgia, Moldova, Ukraine: from PCA to AA/DCFTA(Georgia, Moldova, Ukraine)
+  - 10 Southern and Eastern Mediterranean countries: Barcelona Process, Union for Mediterranean, AA/FTA (mostly simple) - all but Libya and Syria; upgraded with Morocco
+
+> EU cooperation with other EME
+  - FTAs of various degrees of depth
+    - in force: Mexico, Chile, Korea, Columbia and Peru, Central America, CARIFORUM, South Africa, Madagascar, Mauritius, the Seychelles and Zimbabwe, Papua New Guinea and Fiji
+    - In process (various stages): Singapore, Malaysia, Vietnam, Thailand, India, MERCOSUR
+
+  - EU cooperation with ACP countries - from GSP to FTA
+
+> US FTAs with EME
+  - Bahrain
+  - Dominican Republic, Costa Rica, Honduras, Guatemala, El Salvador, Nicaragua
+  - Chile
+  - Israel
+  - Jordan
+  - Korea
+  - Mexico(NAFTA)
+  - Morocco
+  - Oman
+  - Panama
+  - Peru
+  - Singapore
+
+> Japan's FTA with EME
+  - ASEAN
+  - Brunei Darussalam
+  - Chile
+  - India
+  - Indonesia
+  - Malaysia
+  - Mexico
+  - Peru
+  - Philippines
+  - Singapore
+  - Thailand
+  - Vietnam
+
+> Canada's FTA with EME
+  - El Salvador, Guatemala, Honduras, Nicaragua
+  - Chile
+  - Colombia
+  - Costa Rica
+  - Israel
+  - Jordan
+  - CARICOM
+  - Dominican Republic
+  - Panama
+  - Peru
+  - Singapore
+  - Korea
+  - Ukraine
+
+> Australia's FTA with EME
+  - ASEAN & New Zealand
+  - Chile
+  - Papua New Guinea
+  - Malaysia
+  - Singapore
+  - Thailand
+  - Gulf Cooperation Council
+  - China
+
+> Overall picture
+  - Dense network
+  - But not transparent
+  - Several important EME do not participate(Brazil, South Africa, Russia, Pakistan, Bangladeshi, Nigeria)
+  - This is not equivalent of global trade liberalization
