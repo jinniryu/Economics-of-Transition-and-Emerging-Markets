@@ -55,6 +55,34 @@
   - Others must follow decisions of major players (dealing with 'external' shocks produced by their decisions)
 
 ## ***2. EMEs and international financial institution***
+> Bretton Woods intitutions
+  - International Monetary Fund(IMF)
+  - The World Bank(WB)
+  - World Trade Organization(WTO)
+
+> Origins of the IMF
+  - Memory of the uncoordinated reaction to the Great Depression
+  - July 1944 - conference in Bretton Woods, NH(45 countries)
+  - December 1945 - 29 funding members signed Article of Agreement
+  - March 1947 - became operational
+
+> IMF: changes in agendas
+  - 1947-1971 managing the Bretton Woods system of fixed but adjustable exchange rates
+  - 1972-1981 exit from Bretton Woods system, dealing with oil shocks, helping poor countries
+  - 1982-1989 EME debt crisis and post-crisis adjustment
+  - 1990-2004 market transition (especially in CEE and CIS), emerging-market crises
+  - Since 2005 globalization and consequences of global financial crisis
+
+> IMF tasks/activities
+  - Forum for cooperation on international monetary/macroeconomic problems
+  - Promote open system of international payments
+  - Surveillance (Article 4 consultation)
+  - Lending
+  - Technical assistance
+  - Research
+
+> IMF lending
+  - Non-concessionary: Standby Arrangement, Extended Fund Facility, Flexible Credit Line, Precautionalry and Liquidity Line, Rapid Financing Instrument
 ## ***3. EMEs and global trade***
 ## ***4. Global and regional trade systems***
 ## ***5. Trade cooperation between advanced economies and EMEs***
