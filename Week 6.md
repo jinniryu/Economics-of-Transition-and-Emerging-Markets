@@ -83,6 +83,66 @@
 
 > IMF lending
   - Non-concessionary: Standby Arrangement, Extended Fund Facility, Flexible Credit Line, Precautionalry and Liquidity Line, Rapid Financing Instrument
+  - Concessionary: Standby Credit facility, Extened Credit Facility, Rapid Credit Facility
+
+> IMF Governance
+  - 188 members (as of April 2014)
+  - Quota system: a weighted average of GDP(50%), openness (30%), economic variability(15%), and international reserves(5%)
+  - Periodical increases and revisions of quotas
+  - US - 17.69% of total
+
+> The World Bank Group
+  - 'Sisten' institution of the IMF
+  - Affiliates
+    - International Development Association(IDA)
+    - International Finance Corporation(IFC)
+    - Multilateral Guarantee Agency(MIGA)
+    - International Center for the Settlement of Investment Disputes
+
+> WB activities
+  - Development lending(BoP support, sector lending, investment lending)\
+  - Knowledge sharing
+    - Technical assistance
+    - Research
+    - Monitoring
+  - Governance - similar to IMF
+
+> Regional development banks
+  - African Development Bank
+  - Asian Development Bank
+  - European Bank for Reconstruction and Development
+  - Inter-American Development Bank
+
+> Other development banks
+  - European Investment Bank
+  - Islmic Development Bank
+  - Eurasian Development Bank
+
 ## ***3. EMEs and global trade***
+> EME in global trade
+  - Faster growth of exports as compared to advanced economics => growing share in world trade
+  ![Volume of exports of goods and services % change](https://user-images.githubusercontent.com/88122687/148195631-7db093f1-3bec-4264-a183-7cc7db0d4bd1.png)
+  - But still lower than their share in GDP
+  ![Share of EME regions in world's economy % 2013](https://user-images.githubusercontent.com/88122687/148195788-23d12de1-7db3-4e6e-99f2-8551f218acd7.png)
+  - Except CEE, CIS and MENA
+  
+> ![Share of Large EME in world's economy % 2013](https://user-images.githubusercontent.com/88122687/148196416-546fbaaf-50ed-49a0-abcb-a41e1ebaad4f.PNG)
+  This is even better seen in case of largest EME(e.g. BRICS)
+  
+> ![Trade openness (exports plus imports_percent of GDP)](https://user-images.githubusercontent.com/88122687/148196584-9530c0fc-e7b5-45f2-9aa5-769778691002.PNG)
+  Partly this function of country's size but not only
+
+> Factors of EME's  under-trading
+  - Lower level of development
+  - Trade protectionism in EME
+  - Trade protectionism in advanced economies(in agriculture and services)
+  - Commodity monoculture
+
+> ![MFN tariff rate_weighted %_manufactured goods](https://user-images.githubusercontent.com/88122687/148196849-12f6fb7d-2cdf-4334-a746-403e63fd3221.PNG)
+
+> ![Effectively applied import tariff rates_weighted % manufactured goods](https://user-images.githubusercontent.com/88122687/148197228-00ecbb21-fc78-449d-9f2b-56f7986f16ca.PNG)
+
+> ![Commodity Concentration(net commodity exports_percent of GDP)](https://user-images.githubusercontent.com/88122687/148197251-61ee543b-bd24-41f3-aec6-21c66f1a5fae.PNG)
+
 ## ***4. Global and regional trade systems***
 ## ***5. Trade cooperation between advanced economies and EMEs***
