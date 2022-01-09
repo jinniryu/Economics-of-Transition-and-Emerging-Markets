@@ -25,7 +25,7 @@
 
 ## ***2. Results of transition(the first decade)***
 > Problems with statistical comparison
-  - Lopw utility and low quality of final output/ limited consumption choice(structural distortions)
+  - Low utility and low quality of final output/ limited consumption choice(structural distortions)
   - Prices(and exchange rates) not reflecting relative scarcity of goods and market equilibrium
   - High inflation/hyperinflation
   - Over-reporting(pripiska) versus underreporting during transition
