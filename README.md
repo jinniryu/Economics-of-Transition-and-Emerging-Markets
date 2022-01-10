@@ -41,7 +41,7 @@
   - ### [***3. EMEs and global trade***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#3-emes-and-global-trade)
   - ### [***4. Global and regional trade systems***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#4-global-and-regional-trade-systems)
   - ### [***5. Trade cooperation between advanced economies and EMEs***](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/Week%206.md#5-trade-cooperation-between-advanced-economies-and-emes)
-
+> ## [EXAM](https://github.com/jinniryu/Economics-of-Transition-and-Emerging-Markets/blob/main/EXAM.md)
 
 
 
