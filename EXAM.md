@@ -119,3 +119,33 @@
   - Housing reform in Hungary in 1990s
   - ***De-collectivization reform in Chinese agriculture launched in 1978***
   - The World Bank program for African rural regions launched in 2002
+
+## Question 21 : Which African country is a large oil producer?
+  - Senegal
+  - Mauretania
+  - Rwanda
+  - ***Nigeria***
+
+## Question 22 : Which of the following policies was part of a transition process from centrally planned to market economy?
+  - Guarantees of life-time employment
+  - Import subsititution
+  - ***Disinflation***
+  - Nationalization of private enterprises
+
+## Question 23 : Which of the former communist countries introduced in 1968 a New Economic Mechanism based on a "market socialism" model?
+  - ***Hungary***
+  - Albania
+  - Romania
+  - German Democratic Republic
+
+## Question 24 : Which of the following countries does not belong to the Association of South-East Asian Nations(ASEAN):
+  - ***China***
+  - Philippines
+  - Cambodia
+  - Vietnam
+
+## Question 25 : Which form of privatization can help in fast restructuring and modernization of the state-owned enterprise?
+  - Employee buy-out
+  - Voucher privatization
+  - ***Selling to strategic investor***
+  - 'Liquidation' privatization
