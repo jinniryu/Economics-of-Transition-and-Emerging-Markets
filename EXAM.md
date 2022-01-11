@@ -149,54 +149,54 @@
   - Kyrgyzstan
   - Belarus
   - Kazakhstan
-  - Uzbekistan 
+  - ***Uzbekistan***
 ## Question 31 : Which of the following countries belongs to the BRICS block?
   - Saudi Arabia
   - Indonesia
-  - China
+  - ***China***
   - Bangladesh
 ## Question 32 : The centrally planned economies were characterized by:
   - High innovativeness
   - International competitiveness of state-owned enterprises
-  - Soft' budget constraints for enterprises
+  - ***'Soft' budget constraints for enterprises***
   - Abundance of consumer goods and services and their high quality
 ## Question 33 : Which of the following activities has a quasi-fiscal character?
-  - Central banks credit lines to selected sectors and enterprises at the reduced lending rate
+  - ***Central banks credit lines to selected sectors and enterprises at the reduced lending rate***
   - Open- market operations of a central bank
   - Tax exemptions
   - Budget subsidies to public transport
 ## Question 34 : The cross-border spillover of financial crisis may not result from:
   - Cross-border financial flows
   - Trade exposure to a crisis-affected country
-  - Sound macroeconomic fundamentals
+  - ***Sound macroeconomic fundamentals***
   - Psychological "contagion" effect
 ## Question 35: Which of the following countries/regions will experience decline in working-age population until 2030?
   - Sub-Saharan Africa
-  - Central and Southern Asia
+  - ***Central and Southern Asia***
   - Middle East and North Africa
   - China
 ## Question 36 : Which of the following phenomena was not the cause of economic populism in Latin America?
   - Large pockets of poverty
   - Extreme wealth and income inequalities
   - Authoritarian tendencies in political systems
-  - High quality of education system
+  - ***High quality of education system***
 ## Question 37 : The Doha Development Round initiated in 2001 has been about:
   - Recapitalization of the IMF
-  - Further liberalization of the global trade within the WTO
+  - ***Further liberalization of the global trade within the WTO***
   - Support to economic and political reforms in Arab countries
   - Financial aid to highly indebted low-income countries
 ## Question 38 : Which of the following policies/ institutional characteristics was not part of the 'New Economic Policy in the Soviet Russia in 1921-1925?
   - Privately run agriculture
   - Gold-backed currency (chervonets)
-  - Dominance of state ownership in large industry
+  - ***Dominance of state ownership in large industry***
   - Collectivization of agriculture
 ## Question 39 : Which of the following countries was least advanced in its transition to a market economy according to the EBRD scores in 2013?
   - Belarus
   - Azerbaijan
   - Tajikistan
-  - Turkmenistan
+  - ***Turkmenistan***
 ## Question 40 : Which of the following phenomena is the cause of banking crisis?
   - Capital inflow
   - Currency convertibility
-  - Large share of non-performing loans
+  - ***Large share of non-performing loans***
   - High capital-adequacy ratio
