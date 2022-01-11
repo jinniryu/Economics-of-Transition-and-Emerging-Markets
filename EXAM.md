@@ -4,29 +4,29 @@
   - France
   - Finland
   - Luxembourg
-  - Ireland
+  - ***Ireland***
 ## Question 02 : In the world of free capital mobility:
   - Autonomy of national macroeconomic policy has increased
   - Capital has its national character and tends to a country of origin
-  - Monetary policies of major central banks(especially the US Fed) is the major source of volatility in capital flows
+  - ***Monetary policies of major central banks(especially the US Fed) is the major source of volatility in capital flows***
   - Real exchange rate can be controlled by monetary and fiscal policies
 ## Question 03 : Which of the following policy tool has been used in implementing import-substitution industrialization in developing countries?
   - Elimination of import tariffs
-  - Public lnvestment
+  - ***Public lnvestment***
   - Elimination of subsidies
   - Reducing non-tariff barriers
 ## Question 04 : Which of the following countries adopted the 'Arab socialism' model in 1960s?
   - Kuwait
   - Saudi Arabia
   - United Arab Emirates
-  - Algeria
+  - ***Algeria***
 ## Question 05 : Which of the following characteristics does not apply to currency board?
   - Permanently fixed exchange rate (to one of major currencies)
-  - Full backing of monetary base by international reserves of a central bank
+  - ***Full backing of monetary base by international reserves of a central bank***
   - Financing budget deficit by central bank
   - No lender of the last resort function of a central bank
 ## Question 06 : Who of the following economists first developed a model of communist economy?
-  - Karl Marx
+  - ***Karl Marx***
   - David Richardo
   - Ludwig von Mises
   - Thorsten Veblen
@@ -34,29 +34,29 @@
   - Deeper integration within the world trading system
   - Higher degree of political and economic freedom
   - More favorable investment climate
-  - Better endowment in natural resources
+  - ***Better endowment in natural resources***
 ## Question 08 : What was the world largest economy in terms of GDP(PPP) in 1913?
   - India
   - China
   - United States
-  - Western Europe
+  - ***Western Europe***
 ## Question 09 : Which Chinese leader initiated market-oriented economic reforms in 1978?
-  - Deng Xiaoping
+  - ***Deng Xiaoping***
   - Zhou Enlai
   - Mao Zedong
   - Xi Jinping
 ## Question 10 : Which of the following factors does not constrain growth potential of Arab countries in late 2010s?
-  - Limited intra-regional trade integration
+  - ***Limited intra-regional trade integration***
   - Deficit of labor resources
   - Poor quality of education
   - Military conflicts in the region
 ## Question 11 : Which of the following factors did not contribute to deep depreciation of the Russian ruble in 2014-2015?
-  - Improvement in bussiness climate in Russia
+  - ***Improvement in bussiness climate in Russia***
   - Western sanctions against Russia
   - Decline in oil prices
   - Large-scale capital outflow
 ## Question 12 : Which of the following countries belongs to the EU?
-  - Slovenia
+  - ***Slovenia***
   - Serbia
   - Montenegro
   - Macedonia
@@ -64,87 +64,87 @@
   - Brazil
   - United States
   - Indonesia
-  - India
+  - ***India***
 ## Question 14 : The market-oriented reforms in Latin America in 1990s did not include
-  - Increasing food subsidies
+  - ***Increasing food subsidies***
   - Privatization
   - Monetary stabilization
   - Import liberalization
 ## Question 15 : The country, which suffered from hyperinflation in the early 2019, was
   - Central African Republic
-  - Venezuela
+  - ***Venezuela***
   - Iran
   - Mali
 ## Question 16 : Which of the following arguments on the political economy of transition process is correct?
   - Fast changes in economic system can lead to economic collapse
-  - Intermediate winners can stop further changes
+  - ***Intermediate winners can stop further changes***
   - Gradual changes help in gaining support for reform program
   - Old well-grounded institutions support new policies and stabilize economic system
 ## Question 17 : Which phenomenon may be associated with curriency crisis?
   - Decrease in fiscal deficit
-  - Substantial decline in central bank's international reserves
+  - ***Substantial decline in central bank's international reserves***
   - Large capital inflow
   - Norminal appreciation of national currency
 ## Question 18 : In 2017, the share of military spending in GDP in most Arab countries, as compared to the European meabers of NATO was:
   - Lower
   - On the same level
-  - Much higher
+  - ***Much higher***
   - Slightly higher
 ## Question 19 : The "Great Leap Forward" in China in 1958-1959 caused
   - Modernization of Chinese industry
-  - Economic chaos and famine
+  - ***Economic chaos and famine***
   - Increasing real income of Chinese population
   - Acceleration of economic growth
 ## Question 20 : The "Household Responsibility System" was the name of
   - System of administrative procurement of agriculture products in the USSR in 1920s
   - Housing reform in Hungary in 1990s
-  - De-collectivization reform in Chinese agriculture launched in 1978
+  - ***De-collectivization reform in Chinese agriculture launched in 1978***
   - The World Bank program for African rural regions launched in 2002
 ## Question 21 : Which African country is a large oil producer?
   - Senegal
   - Mauretania
   - Rwanda
-  - Nigeria
+  - ***Nigeria***
 ## Question 22 : Which of the following policies was part of a transition process from centrally planned to market economy?
   - Guarantees of life-time employment
   - Import subsititution
-  - Disinflation
+  - ***Disinflation***
   - Nationalization of private enterprises
 ## Question 23 : Which of the former communist countries introduced in 1968 a New Economic Mechanism based on a "market socialism" model?
-  - Hungary
+  - ***Hungary***
   - Albania
   - Romania
   - German Democratic Republic
 ## Question 24 : Which of the following countries does not belong to the Association of South-East Asian Nations(ASEAN):
-  - China
+  - ***China***
   - Philippines
   - Cambodia
   - Vietnam
 ## Question 25 : Which form of privatization can help in fast restructuring and modernization of the state-owned enterprise?
   - Employee buy-out
   - Voucher privatization
-  - Selling to strategic investor
+  - ***Selling to strategic investor***
   - 'Liquidation' privatization
 ## Question 26 : Who first analyzed „soft budget constraints" of state-owned enterprises in a centrally planned economy?
   - Joseph Schumpeter
   - Boris Brutskus
   - Michal Kalecki
-  - Janos Korai
+  - ***Janos Korai***
 ## Question 27 : Which of the following Latin American countries suffered from hyperinflation in 1980s?
   - Panama
-  - Bolivia
+  - ***Bolivia***
   - Mexico
   - Colombia
 ## Question 28 : Which country did not ask for the IMF financial support during the global financial crisis of 2007-2009?
   - Belarus
   - Latvia
   - Ukraine
-  - Estonia
+  - ***Estonia***
 ## Question 29 : Which of the following statements is correct?
   - Market mechanism helps government in more tight control of its citizens
   - Democracy distorts market mechanism
   - Democracy is not necessary for the effective economic governance
-  - Market based economic system makes citizens independent economically from government
+  - ***Market based economic system makes citizens independent economically from government***
 ## Question 30 : Which of the following countries does not belong to the Eurasian Economic Union?
   - Kyrgyzstan
   - Belarus
